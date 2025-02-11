@@ -1,7 +1,7 @@
 {
   "packages": [
     "rabbitmq-server@latest",
-    "python311@latest"
+    "python311@3.11.11"
   ],
   "shell": {
     "init_hook": [
