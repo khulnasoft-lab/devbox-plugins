@@ -1,7 +1,7 @@
 {
   "packages": [
     "mongodb@latest",
-    "mongosh@latest"
+    "mongosh@1.10.6"
   ],
   "shell": {
     "init_hook": []
