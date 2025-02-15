@@ -2,7 +2,7 @@
   "packages": [
     "nats-server@latest",
     "natscli@latest",
-    "nats-top@latest"
+    "nats-top@0.6.3"
   ],
   "shell": {
     "init_hook": []
