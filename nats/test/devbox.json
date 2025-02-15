@@ -1,6 +1,6 @@
 {
   "packages": [
-    "nats-server@latest",
+    "nats-server@2.10.25",
     "natscli@latest",
     "nats-top@latest"
   ],
