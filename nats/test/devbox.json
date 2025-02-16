@@ -1,7 +1,7 @@
 {
   "packages": [
     "nats-server@latest",
-    "natscli@latest",
+    "natscli@0.1.6",
     "nats-top@latest"
   ],
   "shell": {
