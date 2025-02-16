@@ -1,6 +1,6 @@
 {
   "packages": [
-    "rabbitmq-server@latest",
+    "rabbitmq-server@3.13.7",
     "python311@latest"
   ],
   "shell": {
