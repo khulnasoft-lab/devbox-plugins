@@ -1,6 +1,6 @@
 {
   "packages": [
-    "mongodb@latest",
+    "mongodb@7.0.16",
     "mongosh@latest"
   ],
   "shell": {
